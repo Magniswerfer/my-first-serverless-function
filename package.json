@@ -1,0 +1,27 @@
+{
+  "name": "my-first-serverless-function",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "data-uri-to-buffer": "^4.0.0",
+    "fetch-blob": "^3.1.5",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "web-streams-polyfill": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magniswerfer/my-first-serverless-function.git"
+  },
+  "author": "magnus kaspersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magniswerfer/my-first-serverless-function/issues"
+  },
+  "homepage": "https://github.com/Magniswerfer/my-first-serverless-function#readme"
+}
